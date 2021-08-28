@@ -1,3 +1,14 @@
+This is PWA which passes all the test performed by Lighthouse extension in gpoggle chrome.
+
+A PWA is web app which uses normal javascipt to build and this type of  new application model attempts to combine features offered by most modern browsers with the benefits of mobile experience.
+It has been deployed on netlify and can be installed on a mobile phone and on a desktop/laptop.
+
+Link to sie:- https://veryfirstpwa.netlify.app/
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
